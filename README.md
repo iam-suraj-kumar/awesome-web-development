@@ -17,3 +17,4 @@
   - https://github.com/getify/You-Dont-Know-JS
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
   - https://codebyte.re/
+  - https://confpad.io/
