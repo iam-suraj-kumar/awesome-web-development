@@ -18,3 +18,4 @@
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
   - https://codebyte.re/
   - https://confpad.io/
+  - https://biomejs.dev/
