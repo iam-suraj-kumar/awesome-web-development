@@ -11,3 +11,4 @@
   - https://ejzimmer.github.io/event-loop-talk
   - https://github.com/codebytere/talks/tree/master/jsconf-eu-2018
   - https://github.com/getify/You-Dont-Know-JS
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
