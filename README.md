@@ -22,3 +22,4 @@
   - https://biomejs.dev/
   - https://www.patterns.dev/
   - https://www.lydiahallie.com/
+  - https://frontendmasters.com/
