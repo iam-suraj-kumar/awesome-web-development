@@ -2,6 +2,7 @@
 
 ## Videos
 1. Internals
+  - [JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue](https://youtu.be/eiC58R16hb8?si=GB0mBJN7cF9vaJHV)
   - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://youtu.be/8aGhZQkoFbQ?si=G-5F4s0VsnUbwV64)
   - [Further Adventures of the Event Loop - Erin Zimmer - JSConf EU 2018](https://youtu.be/u1kqx6AenYw?si=sXxcbaG_o3nn1JYw)
   - [Arindam Paul - JavaScript VM internals, EventLoop, Async and ScopeChains](https://youtu.be/QyUFheng6J0?si=OjnzbuwxFSCjB5Jq)
