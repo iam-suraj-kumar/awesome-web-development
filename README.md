@@ -19,3 +19,5 @@
   - https://codebyte.re/
   - https://confpad.io/
   - https://biomejs.dev/
+  - https://www.patterns.dev/
+  - https://www.lydiahallie.com/
